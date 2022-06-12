@@ -1,0 +1,68 @@
+root
+root
+left ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+Add operation not possible.
+root
+left ; middle ; right
+rightright ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright
+root
+left ; middle ; right
+rightright ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright ; added_to_leftof_rightmost_rightright
+root
+left ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright ; added_to_leftof_rightmost_rightright
+root
+left ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright,,, ; rightleft ; rightMiddle ; rightright
+leftleftright ; middlerightleft ; added_to_leftof_rightmost_rightright
+root
+left ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright ; middlerightleft ; added_to_leftof_rightmost_rightright
+root
+middle ; right
+middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+middlerightleft ; added_to_leftof_rightmost_rightright
+root
+left ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright ; middlerightleft ; added_to_leftof_rightmost_rightright
+root
+that_newnew ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright ; middlerightleft ; that_newnew
+root
+that_newnewjustbecamethat_newestnewnew ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright ; middlerightleft ; that_newnewjustbecamethat_newestnewnew
+root
+left ; middle ; right
+leftleft ; leftmiddle ; leftright ; middleleft ; middlemiddle ; middleright ; rightleft ; rightMiddle ; rightright
+leftleftright ; middlerightleft ; added_to_leftof_rightmost_rightright
+root
+root
+$$$$$
+moneyleft:( ; moneymiddle ; !@#$%^&*()_+1234567890-=qwertyuiop[]{}`~asdfghjkl:"|;'\<>?,./|\zxcvbnm
+root
+$$$$$
+moneyleft:( ; moneymiddle ; moneymiddle
+moneymidmid
+root
+$$$$$
+moneyleft:( ; moneymiddle ; moneymiddle
+moneymoneymoney ; moneymidmid ; moneylong
+bigracks ; lfg
+root
+$$$$$
+moneyleft:( ; moneymiddle ; moneymiddle
+moneymoneymoney ; moneylong
+bigracks ; lfg
+canbechagned
+$$$$$
+moneyleft:( ; moneymiddle ; moneymiddle
+moneymoneymoney ; moneylong
+bigracks ; lfg
